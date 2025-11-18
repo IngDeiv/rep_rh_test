@@ -1,0 +1,22 @@
+Php 8.2
+composer
+
+
+
+https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html
+Decargar 
+v19
+instantclient-basic-windows.x64-19.29.0.0.0dbru.zip
+
+SDK:
+instantclient-sdk-windows.x64-19.29.0.0.0dbru.zip
+
+Descomprimir en C:/instantclient_19
+
+Agregar a variables de entorno
+editar path y agregar la linea C:/instantclient_19
+
+
+git remote set-url origin https://github.com/IngDeiv/rep_rh_test.git
+
+git remote add origin git@github.com:IngDeiv/rep_rh_test.git
